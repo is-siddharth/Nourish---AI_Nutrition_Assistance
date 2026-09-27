@@ -1,4 +1,4 @@
-# 🥗 Nourish — AI Nutrition Companion
+# 🥗 Nourish -- AI Nutrition Companion
 
 > **Know your numbers. Understand your food. Build your day.**
 
